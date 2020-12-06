@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RTSLabs/static/css/main.6aea042d.chunk.css",
+    "main.js": "/RTSLabs/static/js/main.9f5157a9.chunk.js",
+    "main.js.map": "/RTSLabs/static/js/main.9f5157a9.chunk.js.map",
+    "runtime-main.js": "/RTSLabs/static/js/runtime-main.52b0d43b.js",
+    "runtime-main.js.map": "/RTSLabs/static/js/runtime-main.52b0d43b.js.map",
+    "static/js/2.9afdcdc7.chunk.js": "/RTSLabs/static/js/2.9afdcdc7.chunk.js",
+    "static/js/2.9afdcdc7.chunk.js.map": "/RTSLabs/static/js/2.9afdcdc7.chunk.js.map",
+    "static/js/3.46af78db.chunk.js": "/RTSLabs/static/js/3.46af78db.chunk.js",
+    "static/js/3.46af78db.chunk.js.map": "/RTSLabs/static/js/3.46af78db.chunk.js.map",
+    "index.html": "/RTSLabs/index.html",
+    "static/css/main.6aea042d.chunk.css.map": "/RTSLabs/static/css/main.6aea042d.chunk.css.map",
+    "static/js/2.9afdcdc7.chunk.js.LICENSE.txt": "/RTSLabs/static/js/2.9afdcdc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52b0d43b.js",
+    "static/js/2.9afdcdc7.chunk.js",
+    "static/css/main.6aea042d.chunk.css",
+    "static/js/main.9f5157a9.chunk.js"
+  ]
+}
