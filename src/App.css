@@ -1,0 +1,9 @@
+.App {
+  padding: 60px;
+  background-color: #C7D1F9;
+  min-height: 100vh;
+}
+
+*{
+  box-sizing: border-box;
+}
